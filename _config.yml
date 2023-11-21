@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: SOHM # the main title
+title: Jeremy's Blog # the main title
 
 tagline: Documenting my journey to mastering machine learning # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  blog, SOHM, github
+  blog, SOHM, Jeremy Roth, github
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,15 +34,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: SOHM
+  name: Jeremy Roth
   email: sohmdev@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/sohmstudios # change to your twitter homepage
-    - https://github.com/sohmdev# change to your github homepage
+    - https://github.com/sohmdev # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jeremy-roth-350260131
 
 google_site_verification: # fill in to your verification string
 
