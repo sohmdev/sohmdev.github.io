@@ -8,7 +8,7 @@ order: 4
 
 [//]: # {: .prompt-tip }
 
-Hi - i'm Jeremy and welcome to my blog where I plan to document my journey from zero to hero in the ever-evolving realm of machine learning.
+Hi - I'm Jeremy and welcome to my blog where I plan to document my journey from zero to hero in the ever-evolving realm of machine learning.
 
 ### Who Am I?
 
