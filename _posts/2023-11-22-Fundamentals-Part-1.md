@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals: Part 1"
+title: Fundamentals: Part 1
 date: 2023-11-22 00:00:00 +/0800
 categories: [Fundamentals]
 tags: [fundamentals][basics][linear algebra]     # TAG names should always be lowercase
