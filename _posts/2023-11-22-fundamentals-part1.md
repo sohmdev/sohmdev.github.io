@@ -34,7 +34,6 @@ $$\vec{a} = (3, 4)$$,  $$\vec{a} = \begin{bmatrix} 3 \\ 4 \end{bmatrix}$$
 Vector Plot:\
 ![Vector Example](/assets/img/2023-11-22-fundamentals-part1/Vector1.png)
 
-\
 #### Real Coordinate Spaces
 Represents all possible real values tupled to the nth dimension
 
