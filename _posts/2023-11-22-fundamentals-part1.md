@@ -22,8 +22,6 @@ Below is a summary of my notes regarding this topic
 # Linear Algebra
 ## Unit 1: Vectors and spaces
 
-Vectors are used to represent many things around us: from forces like gravity, acceleration, friction, stress and strain on structures, to computer graphics used in almost all modern-day movies and video games. Vectors are an important concept, not just in math, but in physics, engineering, and computer graphics, so you're likely to see them again in other subjects.
-
 #### Vectors
 A Vector ($$\vec{a}$$) has Magnitude and Direction\
   Magnitude = length (is a scalar)\
@@ -47,5 +45,21 @@ $$R^n$$ = n-Dimensional real coordinate space, $$\begin{bmatrix} n \end{bmatrix}
 $$\vec{x} \in R^2$$ = Vector is a set of real valued 2-tuples\
 The tuples have to contain real values and not variables; i.e. $$\begin{bmatrix} i \\ 0 \end{bmatrix}$$ is not in the Real Coordinate Space
 
-### Adding Vectors
+#### Adding Vectors
+
+$$\vec{a} \begin{bmatrix} 6 \\ -2 \end{bmatrix}$$,  $$\vec{b} \begin{bmatrix} -4 \\ 4 \end{bmatrix}$$
+\
+$$\vec{a}, \vec{b} \in R^2$$
+\
+$$\vec{a} + \vec{b} = \begin{bmatrix} 2 \\ 2 \end{bmatrix}$$
+\
+a[6] + b[-4] = 2\
+a[-2] + b[4] = 2
+
+Vector Addition Plot:\
+![Vector Example](/assets/img/2023-11-22-fundamentals-part1/Vector2.png)\
+When adding vectors graphically $\vec{b}$ starts where $\vec{a}$ ends\
+In the image if we started the yellow arrow ($$\vec{b}$$) at the end of the blue arrow ($$\vec{a}$$) it would point to (2,2)
+
+#### Multiplying Vectors by a Scalar
 
