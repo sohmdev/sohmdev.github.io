@@ -32,8 +32,8 @@ Notation Examples:\
 $$\vec{a} = (3, 4)$$,  $$\vec{a} = \begin{bmatrix} 3 \\ 4 \end{bmatrix}$$
 \
 Vector Plot:\
-![Vector Example](/assets/img/2023-11-22-fundamentals-part1/Vector1.png)\
-\
+![Vector Example](/assets/img/2023-11-22-fundamentals-part1/Vector1.png)
+
 \
 #### Real Coordinate Spaces
 Represents all possible real values tupled to the nth dimension
@@ -43,7 +43,7 @@ $$R^2$$ = 2D real coordinate space, $$\begin{bmatrix} 0 \\ 0 \end{bmatrix}$$
 \
 $$R^3$$ = 3D real coordinate space, $$\begin{bmatrix} 0 \\ 0 \\ 0 \end{bmatrix}$$
 \
-$$R^n$$ = n-Dimensional real coordinate space
+$$R^n$$ = n-Dimensional real coordinate space, $$\begin{bmatrix} n \end{bmatrix}$$
 \
 $$\vec{x} \in R^2$$ = Vector is a set of real valued 2-tuples\
 The tuples have to contain real values and not variables; i.e. $$\begin{bmatrix} i \\ 0 \end{bmatrix}$$ is not in the Real Coordinate Space
