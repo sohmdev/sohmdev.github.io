@@ -18,6 +18,12 @@ I'm not a machine learning guru or an expert—far from it. I'm a simple hobbyes
 
 This isn't just a blog; it's a documentation of the highs and lows of a learning journey. You can expect a blend of practical tutorials, candid reflections, and the occasional "aha" moments. From coding snippets to musings on the latest breakthroughs, I'll share it all as I strive to unravel the mysteries of machine learning.
 
+To start this journey I will be following the AI Expert Roadmap created by [AMAI] (https://i.am.ai/roadmap/)
+1. Fundamentals
+2. Data Scientist
+3. Machine Learning
+4. Deep Learning
+
 ### Connect with Me
 
 Use the links below to connect with me - share your insights, ask questions, or just say Hi!
