@@ -72,6 +72,28 @@ $$\sqrt{4 + 9} = c$$\
 $$\sqrt{13} = c$$ _(the magnitude of the vector)_\
 $$(\frac{2}{\sqrt{13}}, \frac{3}{\sqrt{13}})$$ = Normalized Vector aka Unit Vector $$\hat{u}$$
 
+#### Trigonometry
+
+Example:\
+$$\vec{v} = (8, 20^\circ)$$\
+$$\vec{w} = (5, 240^\circ)$$\
+$$\vec{v} + \vec{w} = ??$$
+
+$$\vec{v} + \vec{w} = (v_x + w_x, v_y + w_y)$$\
+(8*cos(20) + 5*cos(240)), (8*sin(20) + 5*sin(240))\
+(7.52+(-2.5)), (2.74+(-4.33))\
+(5.02, -1.59)
+
+Notes:
+- Use full degrees; dont try and shrink it to < $$90^\circ$$
+- adjacent = magnitude * cos() = x-axis
+- opposite = magnitude * sin() = y-axis
+
+
+
+
+
+
 
 
 
