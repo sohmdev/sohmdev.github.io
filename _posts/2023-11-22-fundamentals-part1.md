@@ -17,7 +17,7 @@ The first section of the AI Expert Roadmap focuses on the Fundamentals:
 # Fundamentals: Basics
 We are at the very first stop on our journey: [_Fundamentals > Basics > Matrices & Linear Algebra Fundamentals_](https://www.khanacademy.org/math/linear-algebra)
 
-Below is a summary of my notes regarding this topic
+Below is a summary of my notes regarding this topic - Part 1
 
 # Linear Algebra
 ## Unit 1: Vectors and spaces
@@ -60,6 +60,4 @@ Vector Addition Plot:\
 ![Vector Example](/assets/img/2023-11-22-fundamentals-part1/Vector2.png)\
 When adding vectors graphically $\vec{b}$ starts where $\vec{a}$ ends\
 In the image if we started the yellow arrow ($$\vec{b}$$) at the end of the blue arrow ($$\vec{a}$$) it would point to (2,2)
-
-#### Multiplying Vectors by a Scalar
 
